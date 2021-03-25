@@ -23,3 +23,6 @@
 ***
 
 <img width="" height="" src="./png/maxresdefault.jpg"></image>
+
+## 4주차 과제
+<img width="" height="" src="./png/21173068_김서현_4주차 과제.PNG"></image>
